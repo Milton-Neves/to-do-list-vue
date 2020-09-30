@@ -1,11 +1,11 @@
 # To do list
 
 <p align="center">
-<img src="https://github.com/Milton-Neves/to-do-list-vue/tree/master/src/assets/layout/img-1.png"/>
+<img src="https://github.com/Milton-Neves/to-do-list-vue/blob/master/src/assets/layout/img-1.PNG"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/Milton-Neves/to-do-list-vue/tree/master/src/assets/layout/img-2.png"/>
+<img src="https://github.com/Milton-Neves/to-do-list-vue/blob/master/src/assets/layout/img-2.PNG"/>
 </p>
 
 
